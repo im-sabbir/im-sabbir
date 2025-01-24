@@ -24,7 +24,6 @@
   <img alt="" height="60px" width="60px"   src="assets/tech/javascript.jpeg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/python.png"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/mysql.png"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
 </div>
 
 ### Favourite Tools
