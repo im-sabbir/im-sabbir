@@ -10,7 +10,7 @@
 </div>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im-sabbir&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=im-sabbir)](https://git.io/streak-stats)
 
 
 ### Love to code
